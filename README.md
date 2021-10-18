@@ -7,5 +7,5 @@ I like to automate tasks using shell or python. I listen to music as much as pos
 
 ---
 ### Github stuff
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWesley)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1sth1os)](https://github.com/anuraghazra/github-readme-stats)
 
